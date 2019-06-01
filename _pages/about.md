@@ -20,4 +20,4 @@ Software testing is a complicated task that has previously been exclusive to exp
 
 **Behavior Driven Development (BDD)** is a tool that enables all stakeholders of a project to test code, using natural language syntax for code specification. Specification code and source code co-evolve together in unexpected ways, and I aim to identify and predict **co-changes** between specification and source code in BDD projects.
 
-If you have any interest in BDD, or requirements engineering and software testing research as a whole, feel free to take a peak at my publication page. I am always looking for more developers to learn from and researchers to collaborate with.
+If you have any interest in BDD, or requirements engineering and software testing research as a whole, feel free to take a peak at my publication page or shoot me an email. I am always looking for more developers to learn from and researchers to collaborate with.
