@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi 你好 Bonjour Hola"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -13,7 +13,7 @@ I am a undergraduate engineering student at Queen's University. I am currently p
 
 I am interested in software engineering research, specifically in **mining software repositories, requirements engineering, and code testing**.
 
-My other interests include jazz piano, golf, and learning new languages.  
+My other interests include jazz piano, golf, and speed running video games.  
 
 ## Research
 Software testing is a complicated task that has previously been exclusive to experienced developers. However, with increasing demand for using software tools to solve business problems, non-technical personnel are joining in on the fun.
