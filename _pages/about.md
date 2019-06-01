@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a undergraduate engineering student at Queen's University. I am currently pursuing a dual degree in **Computer Engineering** and **Mathematics**. My expected graduation date is **May 2021**.
+I am an undergraduate student at Queen's University, currently pursuing a dual degree in **Computer Engineering** and **Mathematics**. My expected graduation date is **May 2021**.
 
 
 I am interested in software engineering research, specifically in **mining software repositories, requirements engineering, and code testing**.
