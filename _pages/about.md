@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my website!"
+title: "Hi. I am Aidan Z.H. Yang"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi there, my name is Aidan.
 I am a undergraduate engineering student at Queen's University. I am currently pursuing a dual degree in **Computer Engineering** and **Mathematics**. My expected graduation date is **May 2021**.
 
 
