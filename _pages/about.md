@@ -14,7 +14,7 @@ I am interested in software engineering research, specifically in **mining softw
 My other interests include jazz piano, golf, and body-building.  
 
 ## Research
-Software testing is a complicated task that has previously been exclusive to experienced developers. However, with increasing demand for using software tools to solve business and problems, non-technical personnel are joining in on the fun!
+Software testing is a complicated task that has previously been exclusive to experienced developers. However, with increasing demand for using software tools to solve business problems, non-technical personnel are joining in on the fun :smile:
 
 **Behavior Driven Development (BDD)** is a tool that enables all stakeholders of a project to test code, using natural language syntax for code specification. Specification code and source code co-evolve together in unexpected ways, and I aim to identify and predict **co-changes** between specification and source code in BDD projects.
 
