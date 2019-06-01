@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Hi. I am Aidan Z.H. Yang"
+title: "Hi!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
