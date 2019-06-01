@@ -11,7 +11,9 @@ redirect_from:
 Hi there, my name is Aidan.
 I am a undergraduate engineering student at Queen's University. I am currently pursuing a dual degree in **Computer Engineering** and **Mathematics**.
 
+
 I am interested in software engineering research, specifically in **mining software repositories, requirements engineering, and code testing**.
+
 My other interests include jazz piano, golf, and body-building.  
 
 ## Research
