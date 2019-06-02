@@ -1,6 +1,5 @@
 ---
 title: "Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development"
-"**Aidan Yang**, Daniel Alencar da Costa, Ying Zou"
 collection: publications
 permalink: /publication/MSR2019
 excerpt: ''
