@@ -9,5 +9,5 @@ date:
 venue: 'The 16th International Conference on Mining Software Repositories, pp. 534–544, 2019, Acceptance Rate: 25% (36/144)'
 ---
 
-[paper](http://aidanby.github.io/files/msr2019.pdf) [Presentation Slides](https://aidanby.github.io/files/MSR.pptx)
+[Pdf](http://aidanby.github.io/files/msr2019.pdf) [Presentation Slides](https://aidanby.github.io/files/MSR.pptx)
 
