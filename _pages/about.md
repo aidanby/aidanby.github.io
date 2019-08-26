@@ -10,14 +10,7 @@ redirect_from:
 
 I am an undergraduate student at Queen's University, currently pursuing a dual degree in **Computer Engineering** and **Mathematics**. My expected graduation date is **May 2021**.
 
-
 I am interested in software engineering research, specifically in **mining software repositories, requirements engineering, and code testing**.
 
-My other interests include jazz piano, golf, and speed running video games.  
-
-## Research
-Software testing is a complicated task that has previously been exclusive to experienced developers. However, with increasing demand for using software tools to solve business problems, non-technical personnel are joining in on the fun.
-
-**Behavior Driven Development (BDD)** is a tool that enables all stakeholders of a project to test code, using natural language syntax for code specification. Specification code and source code co-evolve together in unexpected ways, and I aim to identify and predict **co-changes** between specification and source code in BDD projects.
-
-If you have any interest in BDD, or requirements engineering and software testing research as a whole, feel free to take a peak at my publication page or shoot me an email. I am always looking for more developers to learn from and researchers to collaborate with.
+## Undergraduate Program
+My undergraduate degree is one of the three *engineering science* programs at Queen's University. The [Math and Engineering](https://engineering.queensu.ca/explore-programs/undergraduate-programs/mathematics-and-engineering/) (specialized in computing) program involves courses in electrical engineering, computer science and applied math. 
