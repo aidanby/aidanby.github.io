@@ -4,4 +4,5 @@
 The 16th International Conference on Mining Software Repositories (MSR).   
 Acceptance Rate: 25% (36/144)  
 [Pdf](http://aidanby.github.io/files/msr2019.pdf)
-[Presentation Slides](https://aidanby.github.io/files/MSR_pres.pdf) asdf
+[Presentation Slides](https://aidanby.github.io/files/MSR_pres.pdf)
+![MSR](aidanby.github.io/_includes/msr2019_timeline.png "MSR picture")
