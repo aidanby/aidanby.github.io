@@ -17,5 +17,11 @@ During my undergrad I have interned as an embedded systems developer at [AMD](ht
 ## Research
 I am currently interested in Software Engineering research. Specifically, I am interested in requirements engineering and software traceability. My research tries to make documentation more accesible for new developers, non-technical stakeholders, and end-users. The documentation artifacts I have investigated include requirements documentation, testing documentation, and release documentation. 
 
-I have had the opportunity to be advised by [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) at the [Software Reengineering Research Group](http://post.queensu.ca/~zouy/people.html), [Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html) of [University of Otago](https://www.otago.ac.nz/), and [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/) of [SAIL](http://sail.cs.queensu.ca/). 
+## Collaborators/Mentors
+I have had the opportunity to be advised by the following list of researchers.
+[Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) at the [Software Evolution and Analytics Lab](https://seal-queensu.github.io/).
+[Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/) of [Software Analysis and Intelligence Lab](http://sail.cs.queensu.ca/). 
+[Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html) of [University of Otago](https://www.otago.ac.nz/).
+
+
 
