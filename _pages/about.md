@@ -19,8 +19,11 @@ I am currently interested in Software Engineering research. Specifically, I am i
 
 ## Collaborators/Mentors
 I have had the opportunity to be advised by the following list of researchers.
+
 [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) at the [Software Evolution and Analytics Lab](https://seal-queensu.github.io/).
+
 [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/) of [Software Analysis and Intelligence Lab](http://sail.cs.queensu.ca/). 
+
 [Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html) of [University of Otago](https://www.otago.ac.nz/).
 
 
