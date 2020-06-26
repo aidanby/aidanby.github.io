@@ -27,15 +27,15 @@ Specifically, I am interested in:
 ## Collaborators/Mentors
 I have had the opportunity to be advised by the following list of researchers.
 
-- [Claire Le Goues](https://clairelegoues.com/) of [SquaresLab](https://squareslab.github.io/)
+- [Claire Le Goues](https://clairelegoues.com/) of [squaresLab](https://squareslab.github.io/)
 
-- [Ruben Martins](https://sat-group.github.io/ruben/).
+- [Ruben Martins](https://sat-group.github.io/ruben/)
 
-- [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) of [Software Evolution and Analytics Lab](https://seal-queensu.github.io/).
+- [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) of [Software Evolution and Analytics Lab](https://seal-queensu.github.io/)
 
-- [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/) of [Software Analysis and Intelligence Lab](http://sail.cs.queensu.ca/). 
+- [Ahmed E. Hassan](http://research.cs.queensu.ca/home/ahmed/home/) of [Software Analysis and Intelligence Lab](http://sail.cs.queensu.ca/)
 
-- [Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html).
+- [Daniel Alencar da Costa](https://www.otago.ac.nz/info-science/people/daniel-alencardacosta.html)
 
 
 
