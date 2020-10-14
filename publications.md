@@ -1,3 +1,7 @@
+---
+title: ""
+---
+
 ## Journal ##
 **An Empirical Study on Release Notes Patterns of Popular Apps in the Google Play Store**  
 *Aidan Z.H. Yang*, Safwat Hassan, Ying Zou, Ahmed E. Hassan  
