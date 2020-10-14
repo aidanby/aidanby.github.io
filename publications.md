@@ -1,3 +1,4 @@
+
 # Journal
 
 **An Empirical Study on Release Notes Patterns of Popular Apps in the Google Play Store**  
