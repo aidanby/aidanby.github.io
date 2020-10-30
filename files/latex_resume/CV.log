@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.24)  27 OCT 2020 09:13
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.24)  29 OCT 2020 09:44
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -295,8 +295,8 @@ Package hyperref Warning: Suppressing link with empty target on input line 78.
 ! Extra alignment tab has been changed to \cr.
 <template> \unskip \hfil }\relax \endtemplate 
                                               
-l.78   \textbf{\href{}{\Large Aidan Z.H. Yang}} &
-                                                  \href{mailto:a.yang@queens...
+l.78   \textbf{\href{}{\Large Aidan Yang}} &
+                                             \href{mailto:a.yang@queensu.ca}...
 You have given more \span or & marks than there were
 in the preamble to the \halign or \valign now in progress.
 So I'll assume that you meant to type \cr instead.
@@ -323,13 +323,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 39016466C9A813F249AC17F1D40B28BB;375.
  ) 
 Here is how much of TeX's memory you used:
- 6135 strings out of 480257
- 93194 string characters out of 2891252
+ 6133 strings out of 480257
+ 93175 string characters out of 2891252
  406882 words of memory out of 3000000
- 22573 multiletter control sequences out of 15000+200000
- 541011 words of font info for 52 fonts, out of 3000000 for 9000
+ 22572 multiletter control sequences out of 15000+200000
+ 540713 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,213b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 60i,11n,66p,213b,441s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\aidan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -338,7 +338,7 @@ nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
 cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
 b>
-Output written on CV.pdf (2 pages, 110133 bytes).
+Output written on CV.pdf (2 pages, 111730 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
