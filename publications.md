@@ -22,7 +22,7 @@ Acceptance Rate: 25% <br/>
 ## Short Paper ##
 [**SOAR: Synthesis for Open-Source API Refactoring**](https://dl.acm.org/doi/abs/10.1145/3426430.3428129)  
 *Aidan Z.H. Yang*   
-Proceedings of the 2020 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH Companion 2020)
+Proceedings of the 2020 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH Companion 2020) <br/>
 [Pdf](http://aidanby.github.io/files/splash2020.pdf)
 [Poster](http://aidanby.github.io/files/splash_poster.pdf)
 [Slides](https://aidanby.github.io/files/splash_pres.pdf)
