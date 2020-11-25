@@ -14,8 +14,8 @@ Proceedings of the 43rd International Conference on Software Engineering (ICSE 2
 
 [**Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development**](https://dl.acm.org/citation.cfm?id=3341968)  
 *Aidan Z.H. Yang*, Daniel Alencar da Costa, Ying Zou  
-Proceedings of the 16th International Conference on Mining Software Repositories (MSR 2019).   
-<br/>Acceptance Rate: 25%
+Proceedings of the 16th International Conference on Mining Software Repositories (MSR 2019). 
+Acceptance Rate: 25% <br/>
 [Pdf](http://aidanby.github.io/files/msr2019.pdf)
 [Slides](https://aidanby.github.io/files/MSR_pres.pdf)
 
