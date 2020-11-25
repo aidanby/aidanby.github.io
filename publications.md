@@ -24,3 +24,6 @@ Acceptance Rate: 25% (36/144)
 *Aidan Z.H. Yang*   
 Proceedings of the 2020 ACM SIGPLAN International Conference on Systems, Programming, Languages, and Applications: Software for Humanity (SPLASH Companion 2020).  
 [Pdf](http://aidanby.github.io/files/splash2020.pdf)
+[Poster](http://aidanby.github.io/files/splash_poster.pdf)
+[Presentation Slides](https://aidanby.github.io/files/splash_pres.pdf)
+
