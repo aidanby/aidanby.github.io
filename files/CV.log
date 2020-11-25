@@ -1,9 +1,9 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.10) (preloaded format=pdflatex 2020.10.24)  2 NOV 2020 01:54
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.10)  23 NOV 2020 11:11
 entering extended mode
 **./CV.tex
 (CV.tex
-LaTeX2e <2020-10-01> patch level 1
-L3 programming layer <2020-10-05> xparse <2020-03-03>
+LaTeX2e <2020-10-01> patch level 2
+L3 programming layer <2020-10-27> xparse <2020-03-03>
 ("C:\Program Files\MiKTeX\tex/latex/base\article.cls"
 Document Class: article 2020/04/10 v1.4m Standard LaTeX document class
 ("C:\Program Files\MiKTeX\tex/latex/base\size11.clo"
@@ -119,7 +119,7 @@ Package: letltxmacro 2019/12/03 v1.6 Let assignment for LaTeX macros (HO)
 Package: auxhook 2019-12-17 v1.6 Hooks for auxiliary files (HO)
 )
 (C:\Users\aidan\AppData\Roaming\MiKTeX\tex/latex/kvoptions\kvoptions.sty
-Package: kvoptions 2019/11/29 v3.13 Key value format for package options (HO)
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
 )
 \@linkdim=\dimen145
 \Hy@linkcounter=\count185
@@ -317,27 +317,26 @@ This may cause the page layout to be inconsistent, however.
 
 {C:/Users/aidan/AppData/Local/MiKTeX/pdftex/config/pdftex.map}] [2] (CV.aux)
 Package rerunfilecheck Info: File `CV.out' has not changed.
-(rerunfilecheck)             Checksum: 39016466C9A813F249AC17F1D40B28BB;375.
+(rerunfilecheck)             Checksum: 1C9707D47FB3449E499C3CEC91FBD1B4;423.
  ) 
 Here is how much of TeX's memory you used:
- 6134 strings out of 480257
- 93105 string characters out of 2891252
- 407882 words of memory out of 3000000
- 22573 multiletter control sequences out of 15000+200000
+ 6138 strings out of 479799
+ 93176 string characters out of 2879558
+ 405665 words of memory out of 3000000
+ 23030 multiletter control sequences out of 15000+200000
  540713 words of font info for 51 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 60i,11n,66p,213b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,11n,72p,229b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\aidan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
 s/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fo
-nts/type1/public/amsfonts/cm/cmmi7.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
-lic/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/
-cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmti10.pf
-b>
-Output written on CV.pdf (2 pages, 112014 bytes).
+nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
+lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
+/cm/cmti10.pfb>
+Output written on CV.pdf (2 pages, 104680 bytes).
 PDF statistics:
  86 PDF objects out of 1000 (max. 8388607)
- 11 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 12 named destinations out of 1000 (max. 500000)
+ 73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
