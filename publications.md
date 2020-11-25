@@ -5,17 +5,17 @@ title: ""
 ## Journal ##
 **An Empirical Study on Release Notes Patterns of Popular Apps in the Google Play Store**  
 *Aidan Z.H. Yang*, Safwat Hassan, Ying Zou, Ahmed E. Hassan  
-Empirical Software Engineering Journal (EMSE), under-review
+Empirical Software Engineering Journal (EMSE)<br/> under-review
 
 ## Conference ##
 **SOAR: A Synthesis Approach for Data Science API Refactoring**  
 Ansong Ni, Daniel Ramos, *Aidan Z.H. Yang*, Ines Lynce, Vasco Manquinho Ruben Martins, Claire Le Goues  
-Proceedings of the 43rd International Conference on Software Engineering (ICSE 2021), in-submission
+Proceedings of the 43rd International Conference on Software Engineering (ICSE 2021) <br/>in-submission
 
 [**Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development**](https://dl.acm.org/citation.cfm?id=3341968)  
 *Aidan Z.H. Yang*, Daniel Alencar da Costa, Ying Zou  
 Proceedings of the 16th International Conference on Mining Software Repositories (MSR 2019).   
-Acceptance Rate: 25%
+<br/>Acceptance Rate: 25%
 [Pdf](http://aidanby.github.io/files/msr2019.pdf)
 [Slides](https://aidanby.github.io/files/MSR_pres.pdf)
 
