@@ -12,7 +12,7 @@ Empirical Software Engineering (EMSE)<br/> Under-review, [Preprint](https://aida
 **SOAR: A Synthesis Approach for Data Science API Refactoring**  
 Ansong Ni, Daniel Ramos, *Aidan Z.H. Yang*, Ines Lynce, Vasco Manquinho, Ruben Martins, Claire Le Goues  
 Proceedings of the 43rd International Conference on Software Engineering (ICSE 2021)
-Acceptance Rate: 22% <br/>To-appear, [Preprint](https://aidanby.github.io/files/SOAR_ICSE_Pre.pdf)
+Acceptance Rate: 23% <br/>To-appear, [Preprint](https://aidanby.github.io/files/SOAR_ICSE_Pre.pdf)
 
 [**Predicting Co-Changes between Functionality Specifications and Source Code in Behavior Driven Development**](https://dl.acm.org/citation.cfm?id=3341968)  
 *Aidan Z.H. Yang*, Daniel Alencar da Costa, Ying Zou  
