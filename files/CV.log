@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.10)  15 DEC 2020 22:45
+This is pdfTeX, Version 3.14159265-2.6-1.40.21 (MiKTeX 20.11) (preloaded format=pdflatex 2020.11.10)  24 FEB 2021 08:50
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -320,13 +320,13 @@ Package rerunfilecheck Info: File `CV.out' has not changed.
 (rerunfilecheck)             Checksum: 1C9707D47FB3449E499C3CEC91FBD1B4;423.
  ) 
 Here is how much of TeX's memory you used:
- 6138 strings out of 479799
- 93176 string characters out of 2879558
- 405665 words of memory out of 3000000
- 23030 multiletter control sequences out of 15000+200000
- 540713 words of font info for 51 fonts, out of 3000000 for 9000
+ 6140 strings out of 479799
+ 93195 string characters out of 2879558
+ 404665 words of memory out of 3000000
+ 23031 multiletter control sequences out of 15000+200000
+ 541011 words of font info for 52 fonts, out of 3000000 for 9000
  1141 hyphenation exceptions out of 8191
- 66i,11n,72p,229b,443s stack positions out of 5000i,500n,10000p,200000b,50000s
+ 66i,11n,72p,229b,418s stack positions out of 5000i,500n,10000p,200000b,50000s
  <C:\Users\aidan\AppData\Local\MiKTeX\fonts/pk/ljfour/jknappen/ec/dpi600\tcrm
 1095.pk><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx10.pfb><C:/
 Program Files/MiKTeX/fonts/type1/public/amsfonts/cm/cmbx12.pfb><C:/Program File
@@ -334,9 +334,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmti10.pfb>
-Output written on CV.pdf (2 pages, 104535 bytes).
+Output written on CV.pdf (2 pages, 102911 bytes).
 PDF statistics:
- 86 PDF objects out of 1000 (max. 8388607)
+ 85 PDF objects out of 1000 (max. 8388607)
  12 named destinations out of 1000 (max. 500000)
  73 words of extra memory for PDF output out of 10000 (max. 10000000)
 
