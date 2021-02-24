@@ -5,7 +5,7 @@ title: ""
 ## Journal ##
 **An Empirical Study on Release Notes Patterns of Popular Apps in the Google Play Store**  
 *Aidan Z.H. Yang*, Safwat Hassan, Ying Zou, Ahmed E. Hassan  
-Empirical Software Engineering (EMSE)<br/> Under-review, [Preprint](https://aidanby.github.io/files/EMSE20-Pre.pdf)
+Empirical Software Engineering (EMSE)<br/> Under-review
 
 
 ## Conference ##
