@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 ## What It Do
-I am a PhD student in the Institute of Software Research at Carnegie Mellon University.
+I am a PhD student in the [Institute of Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University.
 
 I completed my undergraduate degree from Queen's University, in **Computer Engineering** and **Mathematics**. 
 
