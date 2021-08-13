@@ -8,23 +8,26 @@ redirect_from:
   - /about.html
 ---
 
-## About Me
-I am an undergraduate student at Queen's University, currently pursuing a dual degree in **Computer Engineering** and **Mathematics**. My expected graduation date is **May 2021**. 
+## What It Do
+I am a PhD student in the Institute of Software Research at Carnegie Mellon University.
+I completed my undergraduate degree from Queen's University, in **Computer Engineering** and **Mathematics**. 
 
-My undergraduate degree is one of the three *engineering science* programs at Queen's University. The [Math and Engineering](https://www.queensu.ca/mathstat/mthe) (specialized in computing) program involves courses in electrical engineering, computer science and applied math. 
+I am originally from Calgary Alberta, and moved out to Ontario for school and work for 5 years, where I picked up all the Toronto mans slang.
 
-Past industry internships:
-- Software developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)
-- Investment banking analyst at GF Securities
+My industry experiences include semidonductor, software, and finance:
+- Kernel level software developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)\
+- Mobile Software developer at Queen's Technology and Media Association
+- Investment banking analyst at GF Securities, specifically in the IPO DD team
 
-## Research
-My research tries to make documentation more accesible for new developers, non-technical stakeholders, and end-users. The documentation artifacts I have investigated include requirements documentation, testing documentation, and release documentation.
+## Bare Research Ahlie
+My research tries to make documentation more accesible for new developers, non-technical stakeholders, and end-users. My goal is to use documentation to help developers automatically write code that is functional and readable. The documentation artifacts I have investigated include requirements documentation (MSR19'), API documentation (ICSE21'), and release documentation (EMSE21'). 
 Specifically, I am interested in:
-- Requirements engineering
-- Software evolution and traceability
 - Program synthesis 
+- Program analysis
+- Natural Language Processing
 
-## Collaborators/Mentors
+
+## Collaborators/Mentors WhaGwaan
 I have had the opportunity to be advised by the following list of researchers.
 
 - [Claire Le Goues](https://clairelegoues.com/) of [squaresLab](https://squareslab.github.io/)
