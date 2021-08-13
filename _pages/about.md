@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 ## What It Do
-I am a PhD student in the [Institute of Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University.
+I am a software engineering PhD student in the [Institute of Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University.
 
-I completed my undergraduate degree from Queen's University, in **Computer Engineering** and **Mathematics**. 
+I completed my undergraduate degree from Queen's University, in Computer Engineering and Mathematics. 
 
 I am originally from Calgary Alberta, and moved out to Ontario for school and work for 5 years, where I picked up all the Toronto mans slang.
 
