@@ -10,12 +10,13 @@ redirect_from:
 
 ## What It Do
 I am a PhD student in the Institute of Software Research at Carnegie Mellon University.
+
 I completed my undergraduate degree from Queen's University, in **Computer Engineering** and **Mathematics**. 
 
 I am originally from Calgary Alberta, and moved out to Ontario for school and work for 5 years, where I picked up all the Toronto mans slang.
 
 My industry experiences include semidonductor, software, and finance:
-- Kernel level software developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)\
+- GPU driver developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)
 - Mobile Software developer at Queen's Technology and Media Association
 - Investment banking analyst at GF Securities, specifically in the IPO DD team
 

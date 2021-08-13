@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Aidan Yang"
 title_separator          : "-"
 name                     : ""
-description              : &description "Undergraduate Researcher at Queen's University"
+description              : &description "PhD researcher at Carnegie Mellon University"
 url                      : https://aidanby.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "aidanby/aidanby.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Aidan Yang"
   avatar           : "profile.jpg"
-  bio              : "Undergraduate Researcher at Queen's University"
-  location         : "Kingston, Ontario"
+  bio              : "PhD Researcher at Carnegie Mellon University"
+  location         : "Pittsburgh, PA"
   employer         :
   googlescholar    : "https://scholar.google.ca/citations?user=KJ2zjBwAAAAJ&hl=en"
-  email            : "a.yang@queensu.ca"
+  email            : "aidan@cmu.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
