@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.3)  3 OCT 2021 17:01
+This is pdfTeX, Version 3.141592653-2.6-1.40.23 (MiKTeX 21.8) (preloaded format=pdflatex 2021.10.3)  10 OCT 2021 21:05
 entering extended mode
 **./CV.tex
 (CV.tex
@@ -337,14 +337,14 @@ Package rerunfilecheck Warning: File `CV.out' has changed.
 (rerunfilecheck)                or use package `bookmark'.
 
 Package rerunfilecheck Info: Checksums for `CV.out':
-(rerunfilecheck)             Before: 17B645FF5A70E19BD0BC620FD8BF4B50;757
+(rerunfilecheck)             Before: 46A21B9CC8A660211DF8CB99D7ED713B;405
 (rerunfilecheck)             After:  67815DAE5270D388EF06F5F7E8397CC8;805.
  ) 
 Here is how much of TeX's memory you used:
- 8874 strings out of 478927
- 129882 string characters out of 2862392
+ 8870 strings out of 478927
+ 129838 string characters out of 2862392
  459117 words of memory out of 3000000
- 26628 multiletter control sequences out of 15000+600000
+ 26624 multiletter control sequences out of 15000+600000
  409055 words of font info for 49 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
  60i,11n,66p,230b,329s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -355,9 +355,9 @@ s/MiKTeX/fonts/type1/public/amsfonts/cm/cmcsc10.pfb><C:/Program Files/MiKTeX/fo
 nts/type1/public/amsfonts/cm/cmr10.pfb><C:/Program Files/MiKTeX/fonts/type1/pub
 lic/amsfonts/cm/cmsy10.pfb><C:/Program Files/MiKTeX/fonts/type1/public/amsfonts
 /cm/cmti10.pfb>
-Output written on CV.pdf (2 pages, 107771 bytes).
+Output written on CV.pdf (2 pages, 106711 bytes).
 PDF statistics:
- 87 PDF objects out of 1000 (max. 8388607)
+ 75 PDF objects out of 1000 (max. 8388607)
  11 named destinations out of 1000 (max. 500000)
- 65 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 33 words of extra memory for PDF output out of 10000 (max. 10000000)
 
