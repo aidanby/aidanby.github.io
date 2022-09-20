@@ -11,11 +11,11 @@ redirect_from:
 ## About
 I am a software engineering PhD student in the [Institute of Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University.
 
-I am originally from Calgary Alberta. I completed my undergraduate degree from Queen's University, in Computer Engineering and Mathematics.
+I am originally from Calgary Alberta. I completed my undergraduate degree from Queen's University, in Computer Engineering and Math.
 
 My industry experiences include semidonductor, software, and finance:
+- Machine learning research intern at Microsoft Research Redmond
 - GPU driver developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)
-- Mobile Software developer at Queen's Technology and Media Association
 - Investment banking analyst at GF Securities, specifically in the IPO industrial team
 
 ## Research
@@ -33,6 +33,8 @@ I have had the opportunity to be advised by the following list of researchers.
 - [Claire Le Goues](https://clairelegoues.com/) of [SquaresLab](https://squareslab.github.io/)
 
 - [Ruben Martins](https://sat-group.github.io/ruben/)
+
+- [Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/) and [Saeed Maleki](https://www.microsoft.com/en-us/research/people/saemal/) of [RISE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)
 
 - [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) of [SEAL Lab](https://seal-queensu.github.io/)
 
