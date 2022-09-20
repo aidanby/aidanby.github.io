@@ -34,7 +34,7 @@ I have had the opportunity to be advised by the following list of researchers.
 
 - [Ruben Martins](https://sat-group.github.io/ruben/)
 
-- [Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/) and [Saeed Maleki](https://www.microsoft.com/en-us/research/people/saemal/) of [RISE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)
+- [Olli Saarikivi](https://www.microsoft.com/en-us/research/people/olsaarik/) and [Saeed Maleki](https://www.microsoft.com/en-us/research/people/saemal/) of [MSR RISE](https://www.microsoft.com/en-us/research/group/research-software-engineering-rise/)
 
 - [Ying Zou](https://www.ece.queensu.ca/people/Y-Zou/index.html) of [SEAL Lab](https://seal-queensu.github.io/)
 
