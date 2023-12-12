@@ -11,9 +11,9 @@ Empirical Software Engineering (EMSE) <br/>
 
 
 ## Conference ##
-**Large Language Models for Test-Free Fault Localization**<br/>
+[**Large Language Models for Test-Free Fault Localization**](https://arxiv.org/abs/2310.01726)<br/>
 *Aidan Z.H. Yang*, Ruben Martins, Claire Le Goues, Vincent J. Hellendoorn <br/>
-Proceedings of the 46rd International Conference on Software Engineering (ICSE 2024) <br/>
+Proceedings of the 46rd International Conference on Software Engineering (ICSE 2024, to appear) <br/>
 [Pdf](http://aidanby.github.io/files/icse24.pdf)
 [Code](https://github.com/squaresLab/LLMAO)
 
