@@ -9,21 +9,20 @@ redirect_from:
 ---
 
 ## About
-I am a software engineering PhD student in the [Institute of Software Research](https://www.isri.cmu.edu/) at Carnegie Mellon University.
+I am a 4th year CS PhD student in the [Software Engineering Department](https://s3d.cmu.edu/) at Carnegie Mellon University.
+
+My research interests are:
+-Automated program repair
+-Automated software verification
+-Software security vulnerabilities
+-Large language models for code
 
 I am originally from Calgary Alberta. I completed my undergraduate degree from Queen's University, in Computer Engineering and Math.
 
-My industry experiences include semidonductor, software, and finance:
+Industry experiences:
+- Applied scientist intern at Amazon (AWS Automated Reasoning Group)
 - Machine learning research intern at Microsoft Research Redmond
 - GPU driver developer at AMD on the [Display Abstraction Layer team](https://www.x.org/wiki/Events/XDC2016/Program/amd_dal.pdf)
-- Investment banking analyst at GF Securities, specifically in the IPO industrial team
-
-## Research
-My research tries to make documentation more accesible for new developers, non-technical stakeholders, and end-users. My goal is to use documentation to help developers automatically write code that is functional and readable. The documentation artifacts I have investigated include requirements documentation (MSR19'), API documentation (ICSE21'), and release documentation (EMSE21').
-Specifically, I am interested in:
-- Program synthesis
-- Program analysis
-- Natural Language Processing
 
 
 ## Collaborators/Mentors
