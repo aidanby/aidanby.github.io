@@ -12,10 +12,10 @@ redirect_from:
 I am a 4th year CS PhD student in the [Software Engineering Department](https://s3d.cmu.edu/) at Carnegie Mellon University.
 
 My research interests are:
--Automated program repair
--Automated software verification
--Software security vulnerabilities
--Large language models for code
+- Automated program repair
+- Automated software verification
+- Software security vulnerabilities
+- Large language models for code
 
 I am originally from Calgary Alberta. I completed my undergraduate degree from Queen's University, in Computer Engineering and Math.
 
