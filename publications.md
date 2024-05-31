@@ -4,7 +4,7 @@ title: ""
 
 [**Large Language Models for Test-Free Fault Localization**](https://dl.acm.org/doi/abs/10.1145/3597503.3623342)<br/>
 **Aidan Z.H. Yang**, Ruben Martins, Claire Le Goues, Vincent J. Hellendoorn <br/>
-Proceedings of the 46rd International Conference on Software Engineering <br/>
+Proceedings of the 46rd International Conference on Software Engineering (ICSE 2024) <br/>
 [Pdf](https://arxiv.org/pdf/2310.01726)
 [Code](https://github.com/squaresLab/LLMAO)
 
