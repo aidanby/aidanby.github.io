@@ -10,7 +10,7 @@ Proceedings of the 46rd International Conference on Software Engineering (ICSE 2
 
 [**An Empirical Study on Release Notes Patterns of Popular Apps in the Google Play Store**](https://link.springer.com/article/10.1007/s10664-021-10086-2)  
 **Aidan Z.H. Yang**, Safwat Hassan, Ying Zou, Ahmed E. Hassan  
-Empirical Software Engineering (EMSE) <br/>
+Empirical Software Engineering (EMSE), ICSE 2022 Journal First <br/>
 [Pdf](http://aidanby.github.io/files/EMSE2021.pdf)
 [Video](https://www.youtube.com/watch?v=avirZ_A13Vw)
 
