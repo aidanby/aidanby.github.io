@@ -2,6 +2,13 @@
 title: ""
 ---
 
+[**Revisiting Unnaturalness for Automated Program Repair in the Era of Large Language Models**](https://arxiv.org/abs/2404.15236)<br/>
+**Aidan Z.H. Yang**, Sophia Kolak, Vincent J. Hellendoorn, Ruben Martins, Claire Le Goues <br/>
+Proceedings of the 47rd International Conference on Software Engineering (ICSE 2025) <br/>
+[Pdf](https://arxiv.org/abs/2404.15236)
+[Code](https://zenodo.org/records/10851256)
+
+
 [**Large Language Models for Test-Free Fault Localization**](https://dl.acm.org/doi/abs/10.1145/3597503.3623342)<br/>
 **Aidan Z.H. Yang**, Ruben Martins, Claire Le Goues, Vincent J. Hellendoorn <br/>
 Proceedings of the 46rd International Conference on Software Engineering (ICSE 2024) <br/>
